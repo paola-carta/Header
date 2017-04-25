@@ -1,0 +1,48 @@
+h1 {
+    font-size: 58px;
+}
+.jumbotron{
+	background: url(../images/sfondo.jpg) no-repeat;
+	background-size: cover;
+	min-height: 600px;
+}
+@media (max-width: 750px) { 
+	h1 {
+    font-size: 29px;
+} 
+	.navbar-default .navbar-collapse{
+	background: rgba(0,0,0,0.4);
+	border-color: transparent;
+	color: #;
+} 
+	.navbar-default .navbar-nav>li>a {
+	font-size: 20px;
+    text-align: center;
+    color: #fff;
+}
+
+ }
+
+ .navbar-brand{
+	background: url(../images/logo.gif) no-repeat;
+	width:200px;
+	height: 70px;
+}
+
+.navbar-default{
+	background: transparent;
+	border-color: transparent;
+}
+.navbar-default .navbar-nav>li>a {
+	color: #666;
+	font-size: 18px;
+    font-weight: 600;
+}
+
+.welcome {
+    background: rgba(0, 0, 0, 0.2);
+    color: rgba(256, 256, 256, 0.85);
+    padding: 150px;
+    text-align: center;
+}
+
