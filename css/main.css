@@ -11,14 +11,14 @@ h1 {
     font-size: 29px;
 } 
 	.navbar-default .navbar-collapse{
-	background: rgba(0,0,0,0.1);
+	background: rgba(0,0,0,0.2);
 	border-color: transparent;
-	color: #000;
+	color: #fff;
 } 
 	.navbar-default .navbar-nav>li>a {
 	font-size: 20px;
     text-align: center;
-    color: #fff;
+    color: #000;
 }
 
  }
